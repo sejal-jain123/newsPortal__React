@@ -1,1 +1,3 @@
-# newsPortal__React
+# NewsPortal
+
+Hii this is my project
